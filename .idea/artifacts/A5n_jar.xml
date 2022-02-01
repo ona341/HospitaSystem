@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="A5n:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/A5n_jar</output-path>
+    <root id="archive" name="A5n.jar">
+      <element id="module-output" name="A5n" />
+    </root>
+  </artifact>
+</component>
